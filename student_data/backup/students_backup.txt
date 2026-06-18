@@ -1,0 +1,5 @@
+S001|Fikadu Molla|Computer Science|3.85
+S002|Brian Nkosi|Electrical Engineering|3.45
+S003|Fike Yafd|ITS|3.95
+S005|Fi MY|Computer Science|3.6
+S004|David Copperfield|ITS|2.75
