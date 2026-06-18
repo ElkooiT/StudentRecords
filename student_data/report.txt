@@ -1,0 +1,6 @@
+========== STUDENT REPORT ==========
+Total Students : 5
+Highest GPA    : 3.95  (Fike Yafd)
+Lowest GPA     : 2.75  (David Copperfield)
+Average GPA    : 3.52
+=====================================
